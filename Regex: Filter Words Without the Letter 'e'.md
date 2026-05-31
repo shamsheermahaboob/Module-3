@@ -25,3 +25,6 @@ print("Filtered list:", l1)
 ```
 ## Output
 <img width="1171" height="201" alt="Screenshot 2026-05-18 184356" src="https://github.com/user-attachments/assets/19e6e5de-6923-46f1-87ce-c4a6c89570c8" />
+
+## Result
+The program successfully filters and returns all words without the letter 'e' from the list using regular expressions.
